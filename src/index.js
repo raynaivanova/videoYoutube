@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = "AIzaSyA6aZfDHIKhgTmSt9ddQwojYyDekM2RHKg";
+const API_KEY = ""; //GOOGLE DEVELOPER API KEY
 
 class App extends Component {
 
